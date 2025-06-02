@@ -1,2 +1,2 @@
 def print_hi(name):
-    print(f'ПРИВЕТ, {name}')
+    print(f'hi hi, {name}')
