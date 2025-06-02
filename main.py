@@ -1,2 +1,2 @@
 def print_hi(name):
-    print(f'Тест!, {name}')
+    print(f'Тест!!, {name}')
